@@ -1,2 +1,3 @@
 # Bingo
-Bingo realizado ao curos de java
+
+Jogo do Bingo realizado com Java/Html/Css
