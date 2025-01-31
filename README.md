@@ -1,2 +1,2 @@
 # Bingo
-Bingo realizado junto ao curso de java 
+Bingo realizado ao curos de java
